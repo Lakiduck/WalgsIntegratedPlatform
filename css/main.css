@@ -38,11 +38,17 @@ h1{
 }
 
 footer{
-  background-color: black;
+  background-color: #C7C8C7;
   padding: 2px;
+  margin-left: 60px;
+  margin-right: 54px;
+  text-align: center;
 }
 
 footer p{
   color: white;
-  margin-left: 2px;
+  font-family: 'Raleway', 'sans-serif';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
 }
